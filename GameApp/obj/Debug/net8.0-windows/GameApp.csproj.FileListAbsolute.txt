@@ -1,0 +1,32 @@
+C:\Users\Asrock\source\repos\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.exe
+C:\Users\Asrock\source\repos\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.deps.json
+C:\Users\Asrock\source\repos\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.runtimeconfig.json
+C:\Users\Asrock\source\repos\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.dll
+C:\Users\Asrock\source\repos\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.pdb
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.csproj.GenerateResource.cache
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.AssemblyInfoInputs.cache
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.AssemblyInfo.cs
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.dll
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\refint\GameApp.dll
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.pdb
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.genruntimeconfig.cache
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\ref\GameApp.dll
+C:\Users\Asrock\source\repos\GameApp\GameApp\obj\Debug\net8.0-windows\Game.Forms.GameForm.resources
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.exe
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.deps.json
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.dll
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\bin\Debug\net8.0-windows\GameApp.pdb
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\Game.Forms.GameForm.resources
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.dll
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\refint\GameApp.dll
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.pdb
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\GameApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка (3)\GameApp\GameApp\obj\Debug\net8.0-windows\ref\GameApp.dll
